@@ -1,5 +1,5 @@
 [{
 "file":"./src/pages/_app.js",
 "selector":false,
-"replacement":"\nimport '../bootstrap/var.scss';\n"
+"replacemant":"\nimport '../bootstrap/var.scss';\n"
 }]
